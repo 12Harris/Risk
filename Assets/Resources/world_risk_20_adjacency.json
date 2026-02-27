@@ -1,0 +1,85 @@
+{
+  "Alaska": [
+    "Canada"
+  ],
+  "Canada": [
+    "Alaska",
+    "USA"
+  ],
+  "USA": [
+    "Canada",
+    "Mexico"
+  ],
+  "Mexico": [
+    "USA",
+    "Brazil"
+  ],
+  "Brazil": [
+    "Mexico",
+    "Peru",
+    "Argentina",
+    "NorthAfrica"
+  ],
+  "Peru": [
+    "Brazil",
+    "Argentina"
+  ],
+  "Argentina": [
+    "Brazil",
+    "Peru"
+  ],
+  "UK": [
+    "WesternEurope"
+  ],
+  "WesternEurope": [
+    "UK",
+    "EasternEurope",
+    "NorthAfrica"
+  ],
+  "EasternEurope": [
+    "WesternEurope",
+    "MiddleEast"
+  ],
+  "NorthAfrica": [
+    "WesternEurope",
+    "Brazil",
+    "CentralAfrica"
+  ],
+  "CentralAfrica": [
+    "NorthAfrica",
+    "SouthAfrica"
+  ],
+  "SouthAfrica": [
+    "CentralAfrica"
+  ],
+  "MiddleEast": [
+    "EasternEurope",
+    "CentralAsia",
+    "NorthAfrica"
+  ],
+  "CentralAsia": [
+    "MiddleEast",
+    "EastAsia"
+  ],
+  "EastAsia": [
+    "CentralAsia",
+    "SoutheastAsia"
+  ],
+  "SoutheastAsia": [
+    "EastAsia",
+    "Indonesia"
+  ],
+  "Indonesia": [
+    "SoutheastAsia",
+    "NewGuinea",
+    "Australia"
+  ],
+  "NewGuinea": [
+    "Indonesia",
+    "Australia"
+  ],
+  "Australia": [
+    "Indonesia",
+    "NewGuinea"
+  ]
+}
